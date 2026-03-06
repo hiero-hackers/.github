@@ -8,6 +8,8 @@ Here you can experiment, prototype, and build ideas around the Hiero ecosystem w
 
 If you have an idea for a tool, SDK, demo, integration, or hackathon project — this is the place to build it.
 
+![hiero-community.png](hiero-community.png)
+
 ## What is Hiero?
 
 Hiero is an **open-source, vendor-neutral distributed ledger technology hosted by the Linux Foundation**.
