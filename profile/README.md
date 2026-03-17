@@ -10,6 +10,13 @@ If you have an idea for a tool, SDK, demo, integration, or hackathon project —
 
 ![hiero-community.png](hiero-community.png)
 
+## Code of Conduct
+
+This project and everyone participating in it is governed by the
+[Linux Foundation Decentralized Trust Code of Conduct](https://www.lfdecentralizedtrust.org/code-of-conduct).
+By participating, you are expected to uphold this code.
+Please report unacceptable behavior to Mike Dolan (mdolan@linuxfoundation.org) or Angela Brown (angela@linuxfoundation.org).
+
 ## What is Hiero?
 
 Hiero is an **open-source, vendor-neutral distributed ledger technology hosted by the Linux Foundation**.
@@ -79,4 +86,8 @@ A few simple rules:
 Every repo, community and committer needs to follow our Code of Conduct that will be availble in near future.
 
 We follow the general open-source spirit of the Hiero ecosystem.
+
+## Help/Community
+
+- Join our [community discussions](https://discord.lfdecentralizedtrust.org/) on discord.
 
